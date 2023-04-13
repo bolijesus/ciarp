@@ -1,0 +1,5 @@
+como docente quiero realizar la gestion de notas para agilizar el proceso de calificaciones y reportes
+como padre de familia quiero ser usurio del sistema para poder ver las notas y el rendimiento de mi hijo 
+como secretaria quiero realizar la gestion de matriculas para llevar el control de todos los estudiantes del planten
+como docente quiero realizar la gestion de cursos y asignaturas para ver mi horario
+como secretaria quierp realizar la gestion de contabilidad para llevar el control de pagos de matriculas 
